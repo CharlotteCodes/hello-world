@@ -1,2 +1,2 @@
 # hello-world
-place for tips and ideas
+This is a place for tips and ideas - too bad it's empty :(
